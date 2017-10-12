@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:myapp="http://schemas.android.com/tools">
+
+    <item android:id="@+id/refresh"
+        android:title="Refresh"
+        android:icon="@drawable/refresh"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item android:id="@+id/log_out"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        app:showAsAction="always"
+        />
+</menu>

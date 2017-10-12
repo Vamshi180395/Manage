@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_id">470181</string>
+    <string name="page_id">3640815</string>
+    <string name="grant_type">urn:ietf:params:oauth:grant-type:jwt-bearer</string>
+    <string name="client_key">da9d5eaf71099c1cc8e189a05b7f1a00165570c5</string>
+    <string name="client_secret">2bf17e9bf4dd089b814cd170f4cf5eda003050bb</string>
+    <string name="endpoint_generate_record_ids">https://app.iformbuilder.com/exzact/api/v60/profiles/[profile_id]/pages/[page_id]/records</string>
+    <string name="endpoint_generate_record_details">https://app.iformbuilder.com/exzact/api/v60/profiles/[profile_id]/pages/[page_id]/records/[record_id]</string>
+    <string name ="endpoint_token_generate">https://app.iformbuilder.com/exzact/api/oauth/token</string>
+</resources>
